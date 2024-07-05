@@ -4,7 +4,7 @@
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula" />
 </a>
 <a href="https://github.com/Gabriel-erk/convoychat">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=190 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
