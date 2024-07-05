@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Gabriel Erick
-
+ 
 <a href="https://github.com/Gabriel-erk/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula" />
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula&show_icons=true&count_private=true&line_height=25&border_radius=3" />
 </a>
 <a href="https://github.com/Gabriel-erk/convoychat">
-  <img height=190 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula&line_height=10&card_width=290&count_private=true&show_icons=true&border_radius=3&count_private=true" />
 </a>
 
 <div style="display: inline_block"><br>
