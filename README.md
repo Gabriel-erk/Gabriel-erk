@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gabriel Erick
 
 <a href="https://github.com/Gabriel-erk/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula" />
 </a>
 <a href="https://github.com/Gabriel-erk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula" />
