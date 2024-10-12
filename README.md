@@ -4,7 +4,7 @@
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-erk&theme=dracula&show_icons=true&count_private=true&line_height=25&border_radius=3" />
 </a>
 <a href="https://github.com/Gabriel-erk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula&line_height=10&card_width=290&count_private=true&show_icons=true&border_radius=3&count_private=true&hide=html,hack,shell,dockerfile,Blade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-erk&layout=compact&langs_count=8&card_width=320&theme=dracula&line_height=10&card_width=290&count_private=true&show_icons=true&border_radius=3&count_private=true&hide=html,hack,shell,dockerfile,Blade,swift,c,kotlin,objective-c,cmake,C++" />
 </a>
 
 <h3 align="left">My Stack ~</h3>
