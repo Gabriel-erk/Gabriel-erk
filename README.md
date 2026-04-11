@@ -26,17 +26,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 </div>
 
-#
-
- <h3>GitHub Stats</h3>
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabriel-erk&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-erk&layout=compact&theme=tokyonight&lang_count=9" />
-</p>
-
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
